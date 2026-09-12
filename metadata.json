@@ -1,0 +1,6 @@
+{
+  "name": "Resource Onboarding & Offboarding Portal",
+  "description": "Cognizant PMO enterprise portal for managing and monitoring resource onboarding and offboarding across accounts, programs, and projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
